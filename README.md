@@ -87,8 +87,9 @@ This project is licensed under the **MIT License**.
 
 ### Connect with Me 🌐
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**:(https:/github.com/sinhaaayush10)
+- **LinkedIn**: (https://linkedin.com/in/
+aayush-sinha-770735253)
 
 ---
 
